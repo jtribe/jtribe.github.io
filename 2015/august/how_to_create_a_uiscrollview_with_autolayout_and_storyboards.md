@@ -114,6 +114,8 @@ If you ran the app again now, you'd see that we have all of our views scrolling 
 
 There is no Step 10.  Our horizontal scrollView scrolls beautifully.
 
+![UIScrollView with AutoLayout and Storyboard GIF](http://i.imgur.com/l7rgfe9.gif)
+
 ## Coming to a screen near you soon....  
 
 ### How to set up a UIScrollView with AutoLayout and Storyboards and dynamically created UIViews.
