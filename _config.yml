@@ -9,7 +9,7 @@ name: jtribe
 description:  Developers from Australia
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/jtribe-logo-social-black.png
+avatar: /images/jtribe-logo-social-black.png
 
 #
 # Flags below are optional
