@@ -166,7 +166,7 @@ Final Step! :)  Right after this line in our `for loop`:
     let verticalConstraint = NSLayoutConstraint.constraintsWithVisualFormat("V:|[\(viewName)]|", options: NSLayoutFormatOptions(rawValue: 0), metrics: metrics, views: views)
     contentView.addConstraints(verticalConstraint)
     
-Here, we're adding a vertical constraint for each view so that the top and bottom edges of our view alights to the top and bottom edges of its superview without and spacing.  Nice and easy compared to the horizontal constraint.  
+Here, we're adding a vertical constraint for each view so that the top and bottom edges of our view aligns to the top and bottom edges of its superview without and spacing.  Nice and easy compared to the horizontal constraint.  
 
 And that's it! Just add `addViewsToScrollView()` in your `viewDidLayoutSubviews()` and you're good to go!
 
