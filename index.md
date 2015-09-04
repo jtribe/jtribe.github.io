@@ -15,8 +15,8 @@ Our mantra is...
 
 ## We are a team of developers
 
-* We make beatiful apps for iOS and Android
-* We develop the backened that runs the mobile apps
+* We make beautiful apps for iOS and Android
+* We develop backeneds for mobile apps
 * We build web apps (but only if there is a mobile spin to it)
   
 ## Want to learn more about jtribe?
