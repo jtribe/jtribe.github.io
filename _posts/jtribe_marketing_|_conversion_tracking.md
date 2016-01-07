@@ -1,4 +1,4 @@
-# Jtribe Marketing
+# jtribe Marketing
 
 # Part 1 - Conversion Tracking
 
@@ -69,7 +69,7 @@ If we were to capture this manually, we’d need to write js to parse the url, c
 
 ### Analytics Tracking Software
 
-Alternatively, we can using analytics software such as [kissmetrics](www.kissmetrics.com) or [mixpanel](www.mixpanel.com) which will have built-in utm tracking available through their api.  This has a few advantages:
+Alternatively, we can using analytics software such as [google analytics](https://www.google.com.au/analytics), [kissmetrics](www.kissmetrics.com) or [mixpanel](www.mixpanel.com) which will have built-in utm tracking available through their api.  This has a few advantages:
 
 * Usually later down the line we'll want analytics tracking software anyway to accurately track each stage of our conversion funnel, so we might as well use it now
 * We don't have to write our own code
@@ -126,25 +126,3 @@ Some websites such as facebook allow you to paste a js script called a 'pixel' i
 → Potential customer buys a pair of socks
 ```
 Now when we look at our Ads Manager on facebook it can tell us the % of people who clicked on the advert and the % of people who completed a purchase from the advert.  Of course, the biggest problem with this is that with only two touch points you can't really be sure where your customers dropped off in your conversion funnel... was it the first page?  The payment details page?  etc.
-
-# Part 2 | Jtribe Landing Page Optimisation (w.i.p.)
-
-
-## Purifying Traffic - Contact Us Vs. Careers
-Currently on our website we have a 'Contact Us' link on our homepage.  I propose we try to seperate contacting for business purposes and contacting for job purposes.  
-
-A way in which we could do this is adding a 'Careers' header so that we can have a cleaner stream of traffic going to our 'Contact Us' page.  This means that the people who are looking for a job won't 'dirty' our analytics as much.
-
-Potentially, we can also change the language of 'Contact Us', I've noticed on other App Development company websites they refer to it as 'starting a conversation'.  It would be interesting to what language would help.
-
-## Larger Call to Action (CTA)
-The website has a very small 'Contact Us' link that is quite hard to find, I think it should be a huge button that is immediately obvious to the user.  Also this CTA could be repeated throughout the same page as the user scrolls down the page.
-
-## Hamburger Vs. Top Menu
-Having a top menu when the user scrolls down the page instead of a hidden hamburger menu will clarify for the user what available actions / information there is on the website, and more importantly, we can help drive them to the parts of the website that we want them to go to e.g. having a careers section at the top along with the rest of the navigation menu may help clean traffic to the contact us form because people searching for a job will have a clear call to action.
-
-## Steps to App Creation
-Outlining the exact steps the potential customer will have to go through in order to get an app made by us may help simplify the process for the user and make it seem less intimidating e.g. easy as 1. send an email, 2. we'll call you, 3. come in and meet us for a free? X mins consultation etc. 
-
-## Social Validation 
-Showing the videos of Movemeber / Progress Claim high on the web page may help increase conversions by reinforcing our trustworthiness and pedigree - *make the user feel safe in our hands from the get-go.*  Video converts higher than any other media.  If we have shorter videos < 20 / 30s on the homepage it would be enough of a positive snippet to get the user 's interest piqued and provide 'validation', we can always have further links so that they can watch the full video.
